@@ -1,0 +1,32 @@
+<annotation>
+    <folder>VOC</folder>
+    <filename>COCO_train2014_000000581900.jpg</filename>
+    <source>
+        <database>My Database</database>
+        <annotation>COCO</annotation>
+        <image>flickr</image>
+        <flickrid>NULL</flickrid>
+    </source>
+    <owner>
+        <flickrid>NULL</flickrid>
+        <name>company</name>
+    </owner>
+    <size>
+        <width>352</width>
+        <height>288</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>clock</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>339</xmin>
+            <ymin>84</ymin>
+            <xmax>352</xmax>
+            <ymax>119</ymax>
+        </bndbox>
+    </object>
+</annotation>
